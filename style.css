@@ -394,6 +394,13 @@ p{
     box-shadow:9px 9px 9px 9px gray;
 
 }
+@media (max-width:597px){
+    .extra{
+        box-shadow:none;
+        border:none;
+        border-radius:none;
+    }
+}
 .ex1{
     border:5px solid black;
     
